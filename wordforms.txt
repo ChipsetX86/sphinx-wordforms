@@ -1,0 +1,454 @@
+akomuliatorius > akumuliatorius
+diktafonas > diktofonas
+svarmenys > hanteliai
+ferari > ferrari
+philiphs > philips
+sonyericson > sonyericsson
+sony ericson > sonyericsson
+laptopas > nešiojamas kompiuteris
+loptopas > nešiojamas kompiuteris
+lietsargis > skėtis
+praustuvė > praustuvas
+lavanda > levanda
+licenzija > licencija
+gabanna > gabbana
+gabana > gabbana
+tapkės > šlepetė
+šliurės > šlepetė
+soni > sony
+aple > apple
+guci > gucci
+colistar > collistar
+piere cardin > pierre cardin
+bufalo > buffalo
+play station > playstation
+šaldituvas > šaldytuvas
+šaldituvai > šaldytuvas
+
+# vlkk.lt - atrinktos ZODYNO neteiktinos svetimybes ir ju dariniai
+adejalas > apklotas
+adijalas > apklotas
+arenda > nuoma
+arenduotis > nuomotis
+babina > ritė
+bantas > peteliškė
+barchatas > aksomas
+barchatinis > aksominis
+basketkės > sportbačiai
+basketės > sportbačiai
+blicas > blykstė
+bliūdas > dubuo
+bliūdelis > dubenėlis
+bonka > butelis
+bonkė > butelis
+britva > skustuvas
+britvutė > skustuvas
+bukietas > puokštė
+čecholas > užvalkalas
+dratas > viela
+dratinis > vielinis
+dratinė > vielinė
+fara > žibintas
+farforas > porcelianas
+farforinis > porcelianinis
+farforinė > porcelianinė
+frizūra > šukuosena
+grafkė > segtukas
+grapkė > segtukas
+grafkutė > segtukas
+guzikas > saga
+gvintas > sriegis
+kaldra > antklodė
+kalnierius > apykaklė
+knopkė > mygtukas
+knopka > mygtukas
+konusas > kūgis
+konusinis > kūginis
+konusinė > kūginė
+kurtkė > striukė
+kurtka > striukė
+lastai > plaukmenys
+mostis > tepalas
+mostelė > tepalas
+papkė > aplankas
+ploščius > lietpaltis
+ploščinis > lietpaltinis
+ploščinė > lietpaltinė
+prosas > lygintuvas
+parėdas > papuošalas
+ružavas > rožinis
+ružava > rožinė
+salka > mansarda
+slaidas > skaidrė
+šlanga > žarna
+šlangas > žarna
+šlipsas > kaklaraištis
+šniūras > virvė
+šniūrelis > raištelis
+špaklis > glaistas
+špaklius > glaistas
+špilka > plaukų segtukas
+špilkutė > plaukų segtukas
+štatas > valstija
+štatyvas > stovas
+
+# vlkk.lt - atrinktos ZODYNO nevartotinos naujosios svetimybes
+dartas > smiginis
+dartsas > smiginis
+dartai > smiginis
+hostelis > nakvynes namai
+hotelis > viešbutis
+kileris > žudikas
+krosvordas > kryžiažodis
+ofisas > biuras
+organaizeris > užrašinė
+pampersai > sauskelnės
+peintbolas > dažasvydis
+ploteris > braižytuvas
+polismenas > policininkas
+posteris > plakatas
+presa > spauda
+preskonferencija > spaudos konferencija
+puzlis > dėlionė
+puzlė > dėlionė
+pūzlė > dėlionė
+rolikai > riedučiai
+rolskeitai > riedučiai
+skeitas > riedlentė
+steipleris > segiklis
+stimeris > garintuvas
+šeikeris > plaktuvė
+
+# vlkk.lt - atrinktos ZODZIU SANDAROS klaidos
+batarėja > baterija
+galanterėja > galanterija
+galerėja > galerija
+loterėja > loterija
+oranžerėja > oranžerija
+bordavas > bordinis
+bordava > bordinė
+fioletavas > violetinis
+fioletava > violetinė
+violetavas > violetinis
+violetava > violetinė
+kerzavas > kerziniai
+kerzava > kerziniai
+kerzavi > kerziniai
+kremavas > kreminis
+kremava > kreminė
+morkavas > morkinis
+morkava > morkinė
+ružavas > rožinis
+ružava > rožinė
+smėliavas > smėlinis
+smėliava > smėlinė
+kubikas > kubas
+pufikas > pufas
+cukrinyčia > cukrinė
+druskinyčia > druskinė
+kiaulinyčia > kiaulidė
+langinyčia > langinė
+pipirnyčia > pipirinė
+rūkinyčia > rūkykla
+varpinyčia > varpinė
+mašinka > mašinėlė
+atskiedėjas > skiediklis
+atskyrėjas > skyriklis
+autopakrovėjas > automobilinis krautuvas
+įkrovėjas > kroviklis
+išspaudėjas > sulčiaspaudė
+praskiedėjas > skiediklis
+purškėjas > purkštuvas
+skiedėjas > skiediklis
+surinkėjas > rinktuvas
+autoatsakovas > atsakiklis
+apšildytojas > šildytuvas
+apšiltintojas > šildytuvas
+aušintojas > aušintuvas
+balintojas > baliklis
+drėkintojas > drėkintuvas
+gaivintojas > gaiviklis
+kietintojas > kietiklis
+maišytojas > maišytuvas
+masažuotojas > masažuoklis
+minkštintojas > minkštiklis
+paskirstytojas > skirstytuvas
+pašalintojas > valiklis
+pašildytojas > šildytuvas
+prailgintojas > ilgintuvas
+standintojas > standiklis
+stiprintojas > stipriklis
+sukietintojas > kietiklis
+tirpintojas > tirpiklis
+treniruotojas > treniruoklis
+žadintojas > žadintuvas
+
+# kiti (misc)
+xbox360 > xbox 360
+
+# tipiniai dydziai
+1kb > 1 kb
+2kb > 2 kb
+4kb > 4 kb
+8kb > 8 kb
+16kb > 16 kb
+32kb > 32 kb
+64kb > 64 kb
+128kb > 128 kb
+256kb > 256 kb
+512kb > 512 kb
+1024kb > 1024 kb
+1mb > 1 mb
+2mb > 2 mb
+4mb > 4 mb
+8mb > 8 mb
+16mb > 16 mb
+32mb > 32 mb
+64mb > 64 mb
+128mb > 128 mb
+256mb > 256 mb
+512mb > 512 mb
+1024mb > 1024 mb
+1gb > 1 gb
+2gb > 2 gb
+4gb > 4 gb
+8gb > 8 gb
+16gb > 16 gb
+32gb > 32 gb
+64gb > 64 gb
+128gb > 128 gb
+256gb > 256 gb
+512gb > 512 gb
+1024gb > 1024 gb
+1tb > 1 tb
+2tb > 2 tb
+4tb > 4 tb
+8tb > 8 tb
+16tb > 16 tb
+32tb > 32 tb
+64tb > 64 tb
+128tb > 128 tb
+256tb > 256 tb
+512tb > 512 tb
+1024tb > 1024 tb
+
+# hdd dydziai
+60gb > 60 gb
+72gb > 72 gb
+80gb > 80 gb
+120gb > 120 gb
+145gb > 145 gb
+160gb > 160 gb
+250gb > 250 gb
+300gb > 300 gb
+320gb > 320 gb
+500gb > 500 gb
+750gb > 750 gb
+1,5tb > 1,5 tb
+
+# modeliai (nokia)
+nokia 1100 > nokia1100
+nokia 1101 > nokia1101
+nokia 1110 > nokia1110
+nokia 1110i > nokia1110i
+nokia 1112 > nokia1112
+nokia 1200 > nokia1200
+nokia 1208 > nokia1208
+nokia 1209 > nokia1209
+nokia 1221 > nokia1221
+nokia 1600 > nokia1600
+nokia 1610 > nokia1610
+nokia 1650 > nokia1650
+nokia 1661 > nokia1661
+nokia 1680 > nokia1680
+nokia 2100 > nokia2100
+nokia 2115i > nokia2115i
+nokia 2116i > nokia2116i
+nokia 2125i > nokia2125i
+nokia 2126i > nokia2126i
+nokia 2128i > nokia2128i
+nokia 2260 > nokia2260
+nokia 2270 > nokia2270
+nokia 2285 > nokia2285
+nokia 2300 > nokia2300
+nokia 2310 > nokia2310
+nokia 2600 > nokia2600
+nokia 2610 > nokia2610
+nokia 2626 > nokia2626
+nokia 2630 > nokia2630
+nokia 2650 > nokia2650
+nokia 2651 > nokia2651
+nokia 2652 > nokia2652
+nokia 2680 > nokia2680
+nokia 2760 > nokia2760
+nokia 3100 > nokia3100
+nokia 3108 > nokia3108
+nokia 3109 > nokia3109
+nokia 3110 > nokia3110
+nokia 3120 > nokia3120
+nokia 3128 > nokia3128
+nokia 3155i > nokia3155i
+nokia 3200 > nokia3200
+nokia 3205 > nokia3205
+nokia 3210 > nokia3210
+nokia 3220 > nokia3220
+nokia 3230 > nokia3230
+nokia 3250 > nokia3250
+nokia 3300 > nokia3300
+nokia 3310 > nokia3310
+nokia 3315 > nokia3315
+nokia 3330 > nokia3330
+nokia 3410 > nokia3410
+nokia 3500 > nokia3500
+nokia 3510 > nokia3510
+nokia 3510i > nokia3510i
+nokia 3520 > nokia3520
+nokia 3530 > nokia3530
+nokia 3560 > nokia3560
+nokia 3589i > nokia3589i
+nokia 3590 > nokia3590
+nokia 3595 > nokia3595
+nokia 3600 > nokia3600
+nokia 3610 > nokia3610
+nokia 3620 > nokia3620
+nokia 3650 > nokia3650
+nokia 3660 > nokia3660
+nokia 5000 > nokia5000
+nokia 5070 > nokia5070
+nokia 5100 > nokia5100
+nokia 5110 > nokia5110
+nokia 5130 > nokia5130
+nokia 5140 > nokia5140
+nokia 5140i > nokia5140i
+nokia 5200 > nokia5200
+nokia 5210 > nokia5210
+nokia 5220 > nokia5220
+nokia 5300 > nokia5300
+nokia 5310 > nokia5310
+nokia 5320 > nokia5320
+nokia 5500 > nokia5500
+nokia 5510 > nokia5510
+nokia 5610 > nokia5610
+nokia 5630 > nokia5630
+nokia 5700 > nokia5700
+nokia 5730 > nokia5730
+nokia 5800 > nokia5800
+nokia 6010 > nokia6010
+nokia 6015i > nokia6015i
+nokia 6016i > nokia6016i
+nokia 6019i > nokia6019i
+nokia 6020 > nokia6020
+nokia 6021 > nokia6021
+nokia 6030 > nokia6030
+nokia 6060 > nokia6060
+nokia 6061 > nokia6061
+nokia 6070 > nokia6070
+nokia 6080 > nokia6080
+nokia 6085 > nokia6085
+nokia 6086 > nokia6086
+nokia 6100 > nokia6100
+nokia 6101 > nokia6101
+nokia 6102 > nokia6102
+nokia 6103 > nokia6103
+nokia 6108 > nokia6108
+nokia 6110 > nokia6110
+nokia 6111 > nokia6111
+nokia 6120 > nokia6120
+nokia 6125 > nokia6125
+nokia 6130 > nokia6130
+nokia 6131 > nokia6131
+nokia 6136 > nokia6136
+nokia 6150 > nokia6150
+nokia 6151 > nokia6151
+nokia 6170 > nokia6170
+nokia 6200 > nokia6200
+nokia 6210 > nokia6210
+nokia 6220 > nokia6220
+nokia 6225 > nokia6225
+nokia 6230 > nokia6230
+nokia 6230i > nokia6230i
+nokia 6233 > nokia6233
+nokia 6234 > nokia6234
+nokia 6235i > nokia6235i
+nokia 6236i > nokia6236i
+nokia 6250 > nokia6250
+nokia 6255i > nokia6255i
+nokia 6256i > nokia6256i
+nokia 6260 > nokia6260
+nokia 6267 > nokia6267
+nokia 6270 > nokia6270
+nokia 6280 > nokia6280
+nokia 6288 > nokia6288
+nokia 6290 > nokia6290
+nokia 6300 > nokia6300
+nokia 6301 > nokia6301
+nokia 6303 > nokia6303
+nokia 6305i > nokia6305i
+nokia 6310 > nokia6310
+nokia 6310i > nokia6310i
+nokia 6360 > nokia6360
+nokia 6500 > nokia6500
+nokia 6510 > nokia6510
+nokia 6555 > nokia6555
+nokia 6560 > nokia6560
+nokia 6585 > nokia6585
+nokia 6600 > nokia6600
+nokia 6610 > nokia6610
+nokia 6610i > nokia6610i
+nokia 6620 > nokia6620
+nokia 6630 > nokia6630
+nokia 6650 > nokia6650
+nokia 6670 > nokia6670
+nokia 6680 > nokia6680
+nokia 6681 > nokia6681
+nokia 6682 > nokia6682
+nokia 6800 > nokia6800
+nokia 6810 > nokia6810
+nokia 6820 > nokia6820
+nokia 6822 > nokia6822
+nokia 7070 > nokia7070
+nokia 7100 > nokia7100
+nokia 7110 > nokia7110
+nokia 7200 > nokia7200
+nokia 7210 > nokia7210
+nokia 7250 > nokia7250
+nokia 7250i > nokia7250i
+nokia 7260 > nokia7260
+nokia 7270 > nokia7270
+nokia 7280 > nokia7280
+nokia 7310 > nokia7310
+nokia 7360 > nokia7360
+nokia 7370 > nokia7370
+nokia 7373 > nokia7373
+nokia 7380 > nokia7380
+nokia 7390 > nokia7390
+nokia 7500 > nokia7500
+nokia 7510 > nokia7510
+nokia 7600 > nokia7600
+nokia 7610 > nokia7610
+nokia 7650 > nokia7650
+nokia 7700 > nokia7700
+nokia 7710 > nokia7710
+nokia 7900 > nokia7900
+nokia 8210 > nokia8210
+nokia 8250 > nokia8250
+nokia 8310 > nokia8310
+nokia 8600 > nokia8600
+nokia 8800 > nokia8800
+nokia 8801 > nokia8801
+nokia 8810 > nokia8810
+nokia 8850 > nokia8850
+nokia 8855 > nokia8855
+nokia 8890 > nokia8890
+nokia 8910 > nokia8910
+nokia 8910i > nokia8910i
+nokia 9000 > nokia9000
+nokia 9000i > nokia9000i
+nokia 9110 > nokia9110
+nokia 9110i > nokia9110i
+nokia 9210 > nokia9210
+nokia 9210i > nokia9210i
+nokia 9290 > nokia9290
+nokia 9300 > nokia9300
+nokia 9300i > nokia9300i
+nokia 9500 > nokia9500
